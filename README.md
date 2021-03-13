@@ -1,19 +1,6 @@
-# crudvue
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+¿Por qué utilizar un framework?
+    -Podemos crear proyectos mas estructurados
+¿Cuáles son los beneficios de usar un Framework?
+    - Los beneficios serian la estandarizacion asi como patrones definidos
+¿Cuáles son los problemas de no usar un Framework?
+    -Tener un codigo ilegible, y no tener un patron de desarrollo 
